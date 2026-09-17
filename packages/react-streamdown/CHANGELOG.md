@@ -1,5 +1,13 @@
 # @assistant-ui/react-streamdown
 
+## 0.3.16
+
+### Patch Changes
+
+- [#7370](https://github.com/assistant-ui/assistant-ui/pull/7370) [`b7f9a96`](https://github.com/assistant-ui/assistant-ui/commit/b7f9a960dda7c7548ac1ebdf3bae368fe28bcbfc) - chore: update dependencies ([@Yonom](https://github.com/Yonom))
+- Updated dependencies [[`b7f9a96`](https://github.com/assistant-ui/assistant-ui/commit/b7f9a960dda7c7548ac1ebdf3bae368fe28bcbfc), [`5f6b4a8`](https://github.com/assistant-ui/assistant-ui/commit/5f6b4a8a62a9ed693ac83f58ce364809c8dfba92)]:
+  - @assistant-ui/react-markdown@0.14.16
+
 ## 0.3.15
 
 ### Patch Changes
